@@ -2,7 +2,7 @@
 
 ## I'm a Home Brewer, Dog Dad, and Data Scientist!
 - 🌱 I’m currently learning front end development and paino
-- 👯 I’m looking to help further quantum physics research
+- 🔬 I’m looking to help further quantum physics research
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools:
@@ -20,6 +20,7 @@
 <img align="left" alt="Teradata" width="26px" src="https://img.icons8.com/color/48/000000/teradata.png" /> 
 <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png"/>
 
+<br />
 <br />
 
 ---
