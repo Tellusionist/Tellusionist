@@ -1,9 +1,13 @@
 ### Hi there, I'm Tim - aka Tellusionist 👋
 
-## I'm a Home Brewer, Dog Dad, and Data Scientist!
-- 🌱 I’m currently learning front end development and paino
-- 🔬 I’m looking to help further quantum physics research
-- 🥅 2020 Goals: Contribute more to Open Source projects
+## I'm a Data Scientist, Home Brewer, and Dog Dad!
+- :musical_note: **Learning:** Front end development and paino
+- :mask: **Volunteering:** COVID-19 National Scientist Volunteer Database https://covid19sci.org/
+- 🔬 **Researching:** Quantum field theory
+- 🥅 **Goals:** Contribute more to Open Source projects
+
+## Active Projects
+- :game_die: [RPG Random Session Maker](https://github.com/Tellusionist/RPGRandomSessionMaker)
 
 ### Languages and Tools:
 
