@@ -1,6 +1,6 @@
 ### Hi there, I'm Tim - aka Tellusionist 👋
 
-## I'm a Data Scientist, Home Brewer, and Dog Dad!
+## I'm a Data Scientist, Home Brewer, and Day Trader!
 - :musical_note: **Learning:** Front end development and paino
 - :mask: **Volunteering:** COVID-19 National Scientist Volunteer Database https://covid19sci.org/
 - 🔬 **Researching:** Quantum field theory
@@ -23,6 +23,7 @@
 <img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/48/000000/tableau-software.png" />
 <img align="left" alt="Teradata" width="26px" src="https://img.icons8.com/color/48/000000/teradata.png" /> 
 <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
 
 <br />
 <br />
