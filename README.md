@@ -1,6 +1,6 @@
 ### Hi there, I'm Tim - aka Tellusionist 👋
 
-## I'm a Data Scientist, Home Brewer, and Day Trader!
+## I'm a Data Scientist, Home Brewer, and Mars Rover Fan!
 - :musical_note: **Learning:** Front end development and paino
 - :mask: **Volunteering:** COVID-19 National Scientist Volunteer Database https://covid19sci.org/
 - 🔬 **Researching:** Quantum field theory
